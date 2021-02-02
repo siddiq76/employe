@@ -1,4 +1,4 @@
-public class EmployeUC2
+public class EmployeUC6
 {
 	
 	  //Constants
@@ -9,7 +9,7 @@ public class EmployeUC2
 	  public static final int MAX_HRS_IN_MONTH =10;
 	  
 
-	public static void main(String ().args) {
+	public static void main(String[] args) {
 	  //variables
 	  int empHRS = 0, empwage = 0, totalEmpwage = 0, totalworkingDays = 0;
 	  //Computation
