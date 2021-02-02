@@ -1,6 +1,6 @@
 public class EmployeUC1
 {
-	public static void main(String ().args) {
+	public static void main(String[] args) {
 	  //Constants
 	  int IS_FULL_TIME =1;
 	  //Computation
